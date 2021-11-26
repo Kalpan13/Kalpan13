@@ -20,7 +20,7 @@ My goal is to solve real life problems using technology and create an impact :sp
 ### More about me:
 
 - 🤝 &nbsp; Looking for Summer Internship.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1DNIS4ylPS0YaK6kmMRuchsFxmA8nOI7C/view?usp=sharing).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1LG3UjtbOZYcXxJr8QPGQaR8o70BCu9_W/view?usp=sharing).
 - :ski: &nbsp; I like to play Cricket, Chess and PC games. I also follow political news closely. 
 - 🌱 &nbsp; Would love to hear and discuss about a new innovative idea.
 
