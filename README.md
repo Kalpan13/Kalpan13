@@ -24,6 +24,9 @@ My goal is to solve real life problems using technology and create an impact :sp
 - &nbsp; I like to play Cricket:cricket_game:, Chess:chess_pawn: and PC games. I also follow political news closely. 
 - 🌱 &nbsp; Would love to hear and discuss about a new innovative idea.
 
+## What am I doing currently? 
+- :computer: &nbsp; Learning DS & Algo at Leetcode.com. Checkout my profile : [Kalpan_13](https://leetcode.com/Kalpan_13/)
+- :computer: &nbsp; Working on a Project of Security Analysis of Open Authentications with Prof. Amir Rehmati
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
 - Programming languages : <br />
