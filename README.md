@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kalpan-tumdi"><img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kalpantumdi@gmail.com"><img alt="gmail" title="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.leetcode.com/https://leetcode.com/Kalpan_13/"><img alt="leetocde" title="leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
+  <a href="mailto:kalpan2713@gmail.com"><img alt="gmail" title="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/Kalpan_13/"><img alt="leetocde" title="leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
 </p>
 
 <h2>About Me</h2>
